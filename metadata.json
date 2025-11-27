@@ -1,0 +1,5 @@
+{
+  "name": "模特生成",
+  "description": "Upload an image of clothing to generate a realistic model photo for ages 8-18. The AI matches the scene to the clothing and uses soft lighting for a professional look.",
+  "requestFramePermissions": []
+}
